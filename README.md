@@ -1,4 +1,4 @@
-# Machine Learning & Deep Learning — From Scratch to Production
+# Machine Learning & Deep Learning — From Scratch to Production [In Development]
 
 **20 modules · 200 hands-on notebooks · Every algorithm built from first principles**
 
